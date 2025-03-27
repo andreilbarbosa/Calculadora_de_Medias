@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.container{    
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color: aliceblue;
+    padding-top: 100px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+header h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header img{
+    height: 36px;
+    margin-right: 16px;
+}
+
+form{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    width: 86%;
+    margin-bottom: 56px;
+}
+
+form input, button{
+    font-size: 26px;
+    border: none;
+    width: 30%;
+    padding: 8px;
+}
+
+form input{
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+
+form button{
+    background-color: rgb(15, 165, 15);
+    color:azure;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+#nota-atividade{
+    width: 16%;
+} 
+
+table{
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    border-spacing: 0px;
+}
+
+table th{
+    font-size: 26px;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+    padding: 8px 0;
+}
+
+table td{
+    padding: 16px 0;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+table td img{
+    height: 40px;
+}
+
+.resultado{
+    background-color: black;
+    color: whitesmoke;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.aprovado{
+    background-color: rgb(27, 185, 6);
+}
+
+.reprovado{
+    background-color: rgb(219, 9, 9);
+}
