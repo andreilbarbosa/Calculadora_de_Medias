@@ -15,4 +15,4 @@ Foi confeccionado junto com o Professor durante as aulas, um sistema de cálculo
 
 #### Criação desse README é apenas para resumir o que foi feito e para um melhor entendimento do que se trata o repositório.
 
-##### Link Vercel:
+##### Link Vercel: https://andrei-projeto-calculadora-medias-theta.vercel.app/
