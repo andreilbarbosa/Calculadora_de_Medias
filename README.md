@@ -1,5 +1,6 @@
-## Atividade de acompanhamento do módulo Projeto 2 para praticar e aprender sobre JavaScript. 
+## Atividade de acompanhamento para praticar e aprender sobre JavaScript do módulo Projeto 2. Site para calcular a média dos alunos 🎓
 ### Curso Front End Developer - EBAC 
+
 
 Foi confeccionado junto com o Professor durante as aulas, um sistema de cálculo de médias das atividades dos alunos, avaliando seu desempenho e retornando junto com sua média final se ele foi aprovado ou não, com base na média que o aluno disponibiliza no início.
 
